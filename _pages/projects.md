@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: As a Researcher and an enthusiast, I try out different ideas that I have in my mind. This page hosts all the ideas turned into projects that I worked on, along with my unpublished work/reports.
 nav: true
 nav_order: 2
 display_categories: [Reports, Course Projects]
