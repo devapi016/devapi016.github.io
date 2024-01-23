@@ -3,7 +3,7 @@ layout: page
 title: Multi Agent SLAM
 description: Final report of my Bachelor's Thesis and code.
 img: 
-redirect:
+redirect: https://github.com/devapi016/Undergraduate-Thesis-Report
 importance: 3
 category: Reports
 ---
