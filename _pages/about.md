@@ -26,7 +26,7 @@ My work falls under two broad problem statements.
 - __*Drone Path Planning using Deep Learning*__: We explored methods related to *Free-space estimation for faster Optimization* and *Diffusion based methods*. We are currently looking at *Koopman based methods*.
  <!-- and *Physics Informed Neural Networks*.  -->
 
-Previously, I was an undergraduate student at BITS Pilani, Hyderabad Campus, where I majored in B.E. Electronics and Communication Engineering with a bachelor's thesis (_[more info](/projects/bachelors_thesis)_), on Multi Agent SLAM, under the guidance of [Dr. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/) and [Dr. Joyjit Mukherjee](https://universe.bits-pilani.ac.in/hyderabad/jmukherjee/Profile).
+Previously, I was an undergraduate student at BITS Pilani, Hyderabad Campus, where I majored in B.E. Electronics and Communication Engineering with a bachelor's thesis (_[more info](https://github.com/devapi016/Undergraduate-Thesis-Report)_), on Multi Agent SLAM, under the guidance of [Dr. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/) and [Dr. Joyjit Mukherjee](https://universe.bits-pilani.ac.in/hyderabad/jmukherjee/Profile).
 
 <!-- My interests lie in AI/CV as well as its applications in the real world, especially through robotics. I want to create agents that can understand the data they get and use it efficiently to solve the problem at hand. Just like how humans do.  -->
 
