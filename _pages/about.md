@@ -23,10 +23,10 @@ I am working as a Research Assistant at the Robotics Research Center of IIIT Hyd
 
 My work falls under two broad problem statements.
 - __*Object Detection/Segmentation in Adverse weather condition*__: Here, we extracted *represenations related to weather condition* to create weather invariant represenations and used them for better Segmentation.
-- __*Drone Path Planning using Deep Learning*__: We are modelling Drone dynamics in Linear Space using *Koopman Theory* and use the obtained Linear model in path planning using *Convex Optimization*. Previously, we explored methods related to *Free-space estimation for faster Optimization* and *Diffusion based methods*.
+- __*Drone Dynamics Modelling using Deep Learning*__: We are modelling Drone dynamics in Linear Space using *Koopman Theory* and use the obtained Linear model in path planning using *Convex Optimization*. Previously, we explored methods related to *Free-space estimation for faster Optimization* and *Diffusion based methods*.
  <!-- and *Physics Informed Neural Networks*.  -->
 
-Previously, I was an undergraduate student at BITS Pilani, Hyderabad Campus, where I majored in B.E. Electronics and Communication Engineering with a bachelor's thesis (_[more info](https://github.com/devapi016/Undergraduate-Thesis-Report)_), on Multi Agent SLAM, under the guidance of [Dr. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/) and [Dr. Joyjit Mukherjee](https://universe.bits-pilani.ac.in/hyderabad/jmukherjee/Profile).
+Previously, I was an undergraduate student at BITS Pilani, Hyderabad Campus, where I majored in B.E. Electronics and Communication Engineering with a bachelor's thesis, on Multi Agent SLAM (_[more info](https://github.com/devapi016/Undergraduate-Thesis-Report)_), under the guidance of [Dr. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/) and [Dr. Joyjit Mukherjee](https://universe.bits-pilani.ac.in/hyderabad/jmukherjee/Profile).
 
 <!-- My interests lie in AI/CV as well as its applications in the real world, especially through robotics. I want to create agents that can understand the data they get and use it efficiently to solve the problem at hand. Just like how humans do.  -->
 
