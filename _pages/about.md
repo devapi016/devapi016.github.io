@@ -31,3 +31,12 @@ Previously, I was an undergraduate student at BITS Pilani, Hyderabad Campus, whe
 <!-- My interests lie in AI/CV as well as its applications in the real world, especially through robotics. I want to create agents that can understand the data they get and use it efficiently to solve the problem at hand. Just like how humans do.  -->
 
 **I am currently looking for research oppurtunities.** You can download my [CV](../assets/pdf/CV__SRI_MIHIR_DEVAPI_UNGARALA.pdf) from here.
+
+## Skills
+| | |
+|----------:|:-------------|
+| Languages | Python, C++, C, MATLAB |
+| Frameworks | Pytorch, Tensorflow, ROS, CVXPY |
+| Tools | Git, Github |
+| MOOC | RL by Sutton & Barto Book, Deep Learning Specialization by Andrew Ng |
+| Firmware | Arduino, Raspberry Pi |
