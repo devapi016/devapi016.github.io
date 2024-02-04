@@ -31,7 +31,7 @@ Previously, I was an undergraduate student at BITS Pilani, Hyderabad Campus, whe
 <!-- My interests lie in AI/CV as well as its applications in the real world, especially through robotics. I want to create agents that can understand the data they get and use it efficiently to solve the problem at hand. Just like how humans do.  -->
 
 <!-- **I am currently looking for research oppurtunities.** You can download my [CV](../assets/pdf/CV__SRI_MIHIR_DEVAPI_UNGARALA.pdf) from here. -->
-**I am currently looking for research oppurtunities.** You can download my [CV](./cv.md) from here.
+**I am currently looking for research oppurtunities.** You can download my [CV](https://devapi016.github.io/cv/) from here.
 
 ### Skills
 
