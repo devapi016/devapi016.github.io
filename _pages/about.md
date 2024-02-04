@@ -32,11 +32,18 @@ Previously, I was an undergraduate student at BITS Pilani, Hyderabad Campus, whe
 
 **I am currently looking for research oppurtunities.** You can download my [CV](../assets/pdf/CV__SRI_MIHIR_DEVAPI_UNGARALA.pdf) from here.
 
-## Skills
-| | |
+### Skills
+
+- Languages: Python, C++, C, MATLAB
+- Frameworks: Pytorch, Tensorflow, ROS, CVXPY
+- Tools: Git, Github
+- MOOC: RL by David Silver, Deep Learning Specialization by Andrew Ng
+- Firmware: Arduino, Raspberry Pi
+<!-- | | |
 |----------:|:-------------|
 | Languages | Python, C++, C, MATLAB |
 | Frameworks | Pytorch, Tensorflow, ROS, CVXPY |
 | Tools | Git, Github |
 | MOOC | RL by Sutton & Barto Book, Deep Learning Specialization by Andrew Ng |
-| Firmware | Arduino, Raspberry Pi |
+| Firmware | Arduino, Raspberry Pi | -->
+
