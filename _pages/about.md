@@ -19,10 +19,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hi !!!
 
-I am working as a Research Assistant at the Robotics Research Center of IIIT Hyderabad where I am advised by [Dr. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/), [Dr. Sourav Garg](https://scholar.google.co.in/citations?user=oVS3HHIAAAAJ&hl=en) and [Dr. Arun Kumar Singh](https://tuit.ut.ee/en/content/arun-kumar-singh).
+I am working as a Researcher at the Robotics Research Center of IIIT Hyderabad where I am advised by [Dr. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/), [Dr. Sourav Garg](https://scholar.google.co.in/citations?user=oVS3HHIAAAAJ&hl=en) and [Dr. Arun Kumar Singh](https://tuit.ut.ee/en/content/arun-kumar-singh).
 
 My work falls under two broad problem statements.
-- __*Object Detection/Segmentation in Adverse weather condition*__: Here, we extracted *represenations related to weather condition* to create weather invariant represenations and used them for better Segmentation.
+- __*Object Segmentation in Adverse weather condition*__: Here, we extracted robust representations that are invariant to weather and used them for better Segmentation as well as Out-of-distribution performance.
 - __*Drone Dynamics Modelling using Deep Learning*__: We are modelling Drone dynamics in Linear Space using *Koopman Theory* and use the obtained Linear model in path planning using *Convex Optimization*. Previously, we explored methods related to *Free-space estimation for faster Optimization* and *Diffusion based methods*.
  <!-- and *Physics Informed Neural Networks*.  -->
 
