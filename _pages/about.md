@@ -21,7 +21,7 @@ Hi !!!
 
 I am working as a Researcher at the Robotics Research Center of IIIT Hyderabad where I am advised by [Dr. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/), [Dr. Sourav Garg](https://scholar.google.co.in/citations?user=oVS3HHIAAAAJ&hl=en) and [Dr. Arun Kumar Singh](https://tuit.ut.ee/en/content/arun-kumar-singh).
 
-My work:
+My work (Visit Publications and Projects page for more info):
 - __*Object Segmentation in Adverse weather condition*__: Here, we extracted robust representations that are invariant to weather and used them for better Segmentation as well as Out-of-distribution performance.
 - __*SAM based Classification using Clustering*__: We worked on using semantic information in SAM embeddings to classify objects via clustering with little to no training.
 - __*Drone Dynamics Modelling using Deep Learning*__: We are modelling Drone dynamics in Linear Space using *Koopman Theory* and use the obtained Linear model in path planning using *Convex Optimization*. 
@@ -40,7 +40,7 @@ Previously, I was an undergraduate student at BITS Pilani, Hyderabad Campus, whe
 - Languages: Python, C++, C, MATLAB
 - Frameworks: Pytorch, Tensorflow, ROS, CVXPY
 - Tools: Git, Github
-- MOOC: RL by David Silver, Deep Learning Specialization by Andrew Ng
+- MOOC: Reinforcement Learning by David Silver, Deep Learning Specialization by Andrew Ng
 - Firmware: Arduino, Raspberry Pi
 <!-- | | |
 |----------:|:-------------|
