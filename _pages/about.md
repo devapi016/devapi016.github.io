@@ -24,7 +24,7 @@ I am working as a Researcher at the Robotics Research Center of IIIT Hyderabad w
 My work (Visit Publications and Projects page for more info):
 - __*Object Segmentation in Adverse weather condition*__: Here, we extracted robust representations that are invariant to weather and used them for better Segmentation as well as Out-of-distribution performance.
 - __*SAM based Classification using Clustering*__: We worked on using semantic information in SAM embeddings to classify objects via clustering with little to no training.
-- __*Drone Dynamics Modelling using Deep Learning*__: We are modelling Drone dynamics in Linear Space using *Koopman Theory* and use the obtained Linear model in path planning using *Convex Optimization*. 
+- __*Linearizing Drone Dynamics using Deep Learning*__: We are modelling Drone dynamics in Linear Space using *Koopman Theory* and use the obtained Linear model in path planning using *Convex Optimization*. 
 - __*Other*__: I worked on *Generative AI* and *Free-space estimation for faster Optimization using Deep Learning* for short time.
  <!-- and *Physics Informed Neural Networks*.  -->
 
