@@ -25,8 +25,9 @@ My work (Visit Publications and Projects page for more info):
 - __*Object Segmentation in Adverse weather condition*__: Here, we extracted robust representations that are invariant to weather and used them for better Segmentation as well as Out-of-distribution performance.
 - __*SAM based Classification using Clustering*__: We worked on using semantic information in SAM embeddings to classify objects via clustering with little to no training.
 - __*Linearizing Drone Dynamics using Deep Learning*__: We are modelling Drone dynamics in Linear Space using *Koopman Theory* and use the obtained Linear model in path planning using *Convex Optimization*. 
-- __*Other*__: I worked on *Generative AI* and *Free-space estimation for faster Optimization using Deep Learning* for short time.
+<!-- - __*Other*__: I worked on *Generative AI* and *Free-space estimation for faster Optimization using Deep Learning* for short time. -->
  <!-- and *Physics Informed Neural Networks*.  -->
+__*Current Work*__: Diffusion Models and 3D Vision
 
 Previously, I was an undergraduate student at BITS Pilani, Hyderabad Campus, where I majored in B.E. Electronics and Communication Engineering with a bachelor's thesis, on Multi Agent SLAM (_[more info](https://github.com/devapi016/Undergraduate-Thesis-Report)_), under the guidance of [Dr. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/) and [Dr. Joyjit Mukherjee](https://universe.bits-pilani.ac.in/hyderabad/jmukherjee/Profile).
 
