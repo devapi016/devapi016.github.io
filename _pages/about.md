@@ -27,7 +27,7 @@ I am working as a Researcher at the Robotics Research Center of IIIT Hyderabad w
 
 <summary><b>Snippnet of my work</b> (Visit Publications and Projects page for more info)</summary>
 <br>
-<b><b><i> Current Work</i></b></b>: Diffusion Models and 3D Vision
+<b><b><i>Current Work</i></b></b>: Diffusion Models and 3D Vision
 <ul>
 <li><b><b><i>Object Segmentation in Adverse weather condition</i></b></b>: Here, we extracted robust representations that are invariant to weather and used them for better Segmentation as well as Out-of-distribution performance.</li>
 <li><b><b><i>SAM based Classification using Clustering</i></b></b>: We worked on using semantic information in SAM embeddings to classify objects via clustering with little to no training.</li>
@@ -43,7 +43,7 @@ Previously, I was an undergraduate student at BITS Pilani, Hyderabad Campus, whe
 <!-- My interests lie in AI/CV as well as its applications in the real world, especially through robotics. I want to create agents that can understand the data they get and use it efficiently to solve the problem at hand. Just like how humans do.  -->
 
 <!-- **I am currently looking for research oppurtunities.** You can download my [CV](../assets/pdf/CV__SRI_MIHIR_DEVAPI_UNGARALA.pdf) from here. -->
-**I am currently looking for research oppurtunities.** You can download my [CV](https://devapi016.github.io/cv/) from here.
+<span style="color:red">**I am currently looking for research oppurtunities.**</span> You can download my [CV](https://devapi016.github.io/cv/) from here.
 
 ### Skills
 
