@@ -32,7 +32,7 @@ My research here comes under broad topic of Represenation Learning in Robotics.
 <li><b><b><i>Object Segmentation in Adverse weather condition</i></b></b>: Here, we extracted robust representations that are invariant to weather and used them for better Segmentation as well as Out-of-distribution performance.</li>
 <li><b><b><i>SAM based Classification using Clustering</i></b></b>: We worked on using semantic information in SAM embeddings to classify objects via clustering with little to no training.</li>
 <li><b><b><i>Linearizing Drone Dynamics using Deep Learning</i></b></b>: We are linearizing Drone dynamics in Latent Space using <i>Koopman Theory</i> and use the obtained Linear model in path planning using <i>Convex Optimization</i>. </li>
-<li><b><b><i>Other</i></b></b>: I worked on <i>Generative AI</i> and <i>Free-space estimation for faster Optimization using Deep Learning</i> for short time.</li>
+<!-- <li><b><b><i>Other</i></b></b>: I worked on <i>Generative AI</i> and <i>Free-space estimation for faster Optimization using Deep Learning</i> for short time.</li> -->
  <!-- and *Physics Informed Neural Networks*.  -->
 </ul>
 
@@ -43,7 +43,7 @@ My research here comes under broad topic of Represenation Learning in Robotics.
 
 <!-- Previously, I was an undergraduate student at BITS Pilani, Hyderabad Campus, where I majored in B.E. Electronics and Communication Engineering with a bachelor's thesis, on Multi Agent SLAM (_[more info](https://github.com/devapi016/Undergraduate-Thesis-Report)_), under the guidance of [Dr. K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/) and [Dr. Joyjit Mukherjee](https://universe.bits-pilani.ac.in/hyderabad/jmukherjee/Profile). -->
 <!-- __Interests__: I am interested  -->
-My currect reseach interests are in Representation Learning in context of Generalization and Efficient Learning from data(Extracting maximum info that is relevant to task from data) for human-like performance in case of Robotics.
+My currect reseach interests are in Representation Learning in context of Generalization and Learning efficiently from given data(Extracting maximum info that is relevant to perform the task from data)  for human-like performance in case of Robotics or better performace in general.
 
 
 
