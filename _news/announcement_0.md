@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-As part of my bachelor's thesis, Started as Research Intern at RRC, IIIT Hyderabad.
+Started my bachelor's thesis at RRC Lab, IIIT Hyderabad. As part of it joined the lab as Research Intern.
