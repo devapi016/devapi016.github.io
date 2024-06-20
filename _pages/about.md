@@ -25,7 +25,7 @@ I am working as a Researcher at the Robotics Research Center of IIIT Hyderabad w
 My work here revolves around the topics of Machine Learning, Computer Vision, Representation Learning, Reinforcement Learning and Robotics.
 
 
-<details>
+<details open>
 
 <summary><b>Snippnet of my work at RRC</b> (Visit Publications and Projects page for more info)</summary>
 <br>
