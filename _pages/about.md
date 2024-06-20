@@ -31,8 +31,8 @@ My work here revolves around the topics of Machine Learning, Computer Vision, Re
 <br>
 <b><b><i>Current Work</i></b></b>:
 <ul>
-<li>Depth Refinement and Completion using diffusion models.
-<li>Learning generalizable skills to adapt in unseen tasks. <!-- Denoising depth images using diffusion models -->
+<li>Depth Refinement and Completion using diffusion models.</li>
+<li>Learning generalizable skills to adapt in unseen tasks.</li> <!-- Denoising depth images using diffusion models -->
 </ul>
 
 <b><b><i>Completed Work</i></b></b>:
