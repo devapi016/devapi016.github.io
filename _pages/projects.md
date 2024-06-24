@@ -6,7 +6,7 @@ description: As a Researcher and an enthusiast, I try out different ideas that I
 nav: true
 nav_order: 2
 display_categories: [Reports, Course Projects]
-horizontal: true #false
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
