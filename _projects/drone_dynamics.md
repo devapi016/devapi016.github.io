@@ -2,7 +2,7 @@
 layout: page
 title: Linearzing Drone Dynamics using Deep Learning
 description:
-img: 
+img: assets/img/projects/drone_dynamics.png
 redirect:
 importance: 3
 category: Reports
