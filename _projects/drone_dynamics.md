@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Linearzing Drone Dynamics using Deep Learning
-description:
+title: Koopman Operators in Deep Learning for Linearizing Drone Dynamics #Linearzing Drone Dynamics using Deep Learning
+description: Linearizing Drone dynamics in Latent Space using Koopman Theory and use the obtained Linear model in Convex Optimization based Path Planning.
 img: assets/img/projects/drone_dynamics.png
 redirect:
 importance: 3
