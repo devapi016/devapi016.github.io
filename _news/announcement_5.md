@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our Paper, [DiffPrompter](https://diffprompter.github.io/) got accepted for IROS 2024 (Oral).
+Our Paper, [DiffPrompter](https://diffprompter.github.io/) got accepted for IROS 2024 (Oral Presentation).
