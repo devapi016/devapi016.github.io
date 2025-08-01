@@ -36,9 +36,12 @@ Before this, I was a researcher at RRC, IIIT Hyderabad, where I worked on roboti
 My interests lie broadly in Representation Learning, Computer Vision, Reinforcement Learning, and Robotics. -->
 
 
-Hello, I’m currently working as an Independent Researcher on a project at the intersection of Representation Learning and Visual Reinforcement Learning. Prior to this, I was a researcher at the Robotics Research Center (RRC), IIIT Hyderabad, where I focused on robotic perception under the guidance of Prof. [K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/) and Dr. [Sourav Garg](https://oravus.github.io/). Along the way, I also explored generative modeling and drone navigation.
+<!-- Hello, I’m currently working as an Independent Researcher on a project at the intersection of Representation Learning and Visual Reinforcement Learning. Prior to this, I was a researcher at the Robotics Research Center (RRC), IIIT Hyderabad, where I focused on robotic perception under the guidance of Prof. [K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/) and Dr. [Sourav Garg](https://oravus.github.io/). Along the way, I also explored generative modeling and drone navigation. -->
+
+
+Hello, I'm currently an Independent Researcher working on interesting projects either in collaboration or individually. Prior to this, I was a researcher at the Robotics Research Center (RRC), IIIT Hyderabad, where I focused on robotic perception under the guidance of Prof. [K. Madhava Krishna](https://robotics.iiit.ac.in/faculty_mkrishna/) and Dr. [Sourav Garg](https://oravus.github.io/). Along the way, I also explored generative modeling and drone navigation.
 
 I completed my undergraduate studies in Electronics and Communications Engineering at [BITS Pilani, Hyderabad](https://www.bits-pilani.ac.in/hyderabad/), where I wrote my bachelor’s thesis on Multi-Agent SLAM.
 
-My research interests broadly cover Representation Learning, Computer Vision, Reinforcement Learning, and Robotics.
+I am interested in creating intelligent systems that are as capable as humans. As part of this, I work under a broad range of topics like Deep Learning, Computer Vision, Reinforcement Learning, Representation Learning, etc.
 
