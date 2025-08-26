@@ -41,6 +41,12 @@ layout: default
             {{ content }}
           </div>
 
+          <!-- Research Interests -->
+          {% if page.research_interests -%}
+            <h2>Research Interests</h2>
+            {%- include research_interests.html %}
+          {%- endif %}
+
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
