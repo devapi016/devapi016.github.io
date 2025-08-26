@@ -1,3 +1,12 @@
-<div class="research_interests">
+<!-- <div class="research_interests">
     {{content}}
+</div> -->
+<div class="research-interests">
+  <h2>Research Interests</h2>
+  {% assign ri = site.pages | where: "permalink", "/research_interests/" | first %}
+  {% if ri %}
+    {{ ri.content | markdownify }}
+  {% else %}
+    <p>No research interests added yet.</p>
+  {% endif %}
 </div>
