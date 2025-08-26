@@ -44,5 +44,3 @@ Hello, I'm currently an Independent Researcher working on interesting projects e
 
 I completed my undergraduate studies in Electronics and Communications Engineering at [BITS Pilani, Hyderabad](https://www.bits-pilani.ac.in/hyderabad/), where I wrote my bachelor’s thesis on Multi-Agent SLAM.
 
-I am interested in creating intelligent systems that are as capable as humans. As part of this, I work under a broad range of topics like Deep Learning, Computer Vision, Reinforcement Learning, Representation Learning, etc.
-
