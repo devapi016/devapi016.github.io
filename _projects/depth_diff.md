@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DepthDiff
-description: Agnoistic noise removal in depth imagesusing diffusion. This project is an unpublished work done at RRC.
+description: A diffusion-based approach that agnostically denoises depth images.
 img: assets/img/projects/depth_diff.png
 redirect: https://github.com/devapi016/DepthDiff
 importance: 2

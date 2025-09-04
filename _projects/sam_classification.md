@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SAM based Classification
-description: Worked on using semantic information in SAM embeddings to classify objects via clustering with little to no training. This project is an unpublished work done at RRC.
+description: Unsupervised MLP classification atop SAM features, aligning part, whole, and memory-bank embeddings to cluster same-class objects without fine-tuning the core model.
 img: assets/img/projects/sam.png
 redirect: https://github.com/devapi016/SAM_based_Classification
 importance: 3
